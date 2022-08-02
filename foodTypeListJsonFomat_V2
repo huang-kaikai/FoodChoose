@@ -1,0 +1,271 @@
+{
+"title": "食物菜單",
+"detail": "好吃的食物",
+"options": [
+{
+"typeName": "選項1-巷弄美食",
+"foodList": [
+{
+"name": "極禾家",
+"recommend": "古早味排骨飯,酸菜白肉湯麵",
+"imageUrl": "https://d1ralsognjng37.cloudfront.net/46db3163-4de2-41f7-a9f4-7f42ee3370f7.jpeg"
+},
+{
+"name": "大全鵝肉飯",
+"recommend": "鵝肉便當",
+"imageUrl": "https://d1ralsognjng37.cloudfront.net/7194216c-fcd7-40ce-b321-a8febb400210.jpeg"
+},
+{
+"name": "寒喧",
+"recommend": "韓式烤五花肉飯",
+"imageUrl": "https://pic.pimg.tw/peko721/1614265050-1803164833-g_l.jpg"
+},
+{
+"name": "台南無刺虱目魚",
+"recommend": "蝦仁滷肉飯",
+"imageUrl": "https://d1ralsognjng37.cloudfront.net/5d45df7f-52e4-42a1-a3ad-644c3012f3fb.jpeg"
+},
+{
+"name": "河內河粉",
+"recommend": "生牛肉湯,蝦仁炸春捲",
+"imageUrl": "https://tenjo.tw/webp/wp-content/uploads/20190724203151_40.jpg.webp"
+},
+{
+"name": "小室廚房",
+"recommend": "韓式烤五花肉飯,玉子牛丼飯",
+"imageUrl": "https://d1ralsognjng37.cloudfront.net/281f6951-9f93-4e4a-910b-4e19f24dd505.jpeg"
+},
+{
+"name": "台南米糕",
+"recommend": "",
+"imageUrl": "https://i0.wp.com/lucharger.com/wp-content/uploads/IMG_20210223_190832.jpg?resize=960%2C720&ssl=1"
+},
+{
+"name": "陳家涼麵",
+"recommend": "三合一味增湯",
+"imageUrl": "https://pic.pimg.tw/dressingfrad/1543376245-2919735772.jpg"
+},
+{
+"name": "阿勇小吃",
+"recommend": "清蒸肉丸,甜不辣",
+"imageUrl": "https://www.walkerland.com.tw/image/size200/0_0_600_600_poi/p10104/m1/52ec50474cb04bfc2864ae72f816de33475b6b08.jpg"
+},
+{
+"name": "料理鼠王",
+"recommend": "鮮肉大餛飩湯",
+"imageUrl": "https://nash.tw/webp/wp-content/uploads/20190330164949_95.jpg.webp"
+},
+{
+"name": "全民咖哩",
+"recommend": "綜合咖喱飯,雞湯",
+"imageUrl": "https://www.foodytw.com/upload/restaurant/cover/original/ae31a553b1b12b3bfa1214e9b7352052.jpg"
+},
+{
+"name": "三媽臭臭鍋",
+"recommend": "臭臭鍋～",
+"imageUrl": "https://pic.pimg.tw/kenwhitney/1608771622-3289667846-g.jpg"
+},
+{
+"name": "大汗麻辣鍋",
+"recommend": "麻辣鴨血臭豆腐,鹽酥雞",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-FWFXoo29IjinKvLxePKfT2Ef_kAK49svLmW0FNqSQ25r-r9_c9HYgZxAaTt3oJ9CLg&usqp=CAU"
+},
+{
+"name": "亓家蒸餃",
+"recommend": "鮮蝦蒸餃",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOIVR0EbYhD5Zwm6JiG-iTGHiSGLvPbfjm1zI14=s451-k-no"
+},
+{
+"name": "鍋癮goin",
+"recommend": "待嚐鮮",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPzU4HFFzGQVHpiPPYjYcHgcocgZGrbxkdF1Vh1=w408-h408-k-no"
+}
+]
+},
+{
+"typeName": "選項2-來點刺激",
+"foodList": [
+{
+"name": "大汗麻辣鍋",
+"recommend": "麻辣鴨血臭豆腐,鹽酥雞",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-FWFXoo29IjinKvLxePKfT2Ef_kAK49svLmW0FNqSQ25r-r9_c9HYgZxAaTt3oJ9CLg&usqp=CAU"
+},
+{
+"name": "三媽臭臭鍋",
+"recommend": "臭臭鍋",
+"imageUrl": "https://pic.pimg.tw/kenwhitney/1608771622-3289667846-g.jpg"
+},
+{
+"name": "大呼過癮",
+"recommend": "醬燒牛肉鍋",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNey-WGXP5OFCkQXnPi7QCCv8A6HM85i0zfMcrM=w408-h306-k-no"
+}
+]
+},
+{
+"typeName": "選項3-吃早餐～",
+"foodList": [
+{
+"name": "中式豆漿店老闆愛聊天",
+"recommend": "蛋餅(微量辣油)&小蔥餅&燒餅夾蛋餅",
+"imageUrl": "https://alina00.com/wp-content/uploads/2020/07/DSCF2289.jpg"
+},
+{
+"name": "洪爺漢堡",
+"recommend": "菲力雞排",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOlt-lvWi18BxopakDpdF6yuSMX7GCdy2J9rQUg=w203-h360-k-no"
+},
+{
+"name": "魔力漢堡",
+"recommend": "老闆手抓漢堡",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN3_mm8uOviksWd2onRlBAJJHQ2K9pJ_uD_tzwA=s508-k-no"
+},
+{
+"name": "優多早餐",
+"recommend": "喀拉雞腿堡",
+"imageUrl": "https://lh3.ggpht.com/p/AF1QipPugT0fM4uinzGyLbrCUY34FLKPaB9SndOnD2e0=s512"
+}
+]
+},
+{
+"typeName": "選項4-來吃速食吧!",
+"foodList": [
+{
+"name": "八嘎King",
+"recommend": "華堡就是美味&洋蔥圈",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPnx9gYLJVEVin76uGZnX5N0PXmUM3kVr63Arfr=w408-h306-k-no"
+},
+{
+"name": "麥當當",
+"recommend": "大麥克",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPBCBJ2V_z7l7lT4phst-xIi5rrhLsbXLZeRg9w=w408-h544-k-no"
+},
+{
+"name": "就是要KFC",
+"recommend": "青花椒麻脆雞&蛋塔",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNlSFVKn9xtUhvdUQ3t-SDZT2iXWauuKS2aHAIl=s451-k-no"
+},
+{
+"name": "Sukiya",
+"recommend": "蔥花溫玉牛丼&泡菜牛丼",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3o5dzw8vRy8mgLO4XmlbkvD4y5lSm8BlKgg&usqp=CAU"
+},
+{
+"name": "吉野家",
+"recommend": "牛丼&雙拼丼&感丼",
+"imageUrl": "https://www.yoshinoya.com.tw/wp-content/uploads/2020/04/yoshinoya-apple-touch-icon.png"
+},
+{
+"name": "拿坡里Pizza",
+"recommend": "義式炸雞!!!",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0tj1yZ5gnPvlUeAieE6IA6hlwe7FClZV0-g&usqp=CAU"
+}
+]
+},
+{
+"typeName": "選項5-來杯飲料",
+"foodList": [
+{
+"name": "來買",
+"recommend": "錫蘭blackTea",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNAkYOgnojNTof-sKC0p3NakX1N55lMOScYTzWm=w426-h240-k-no"
+},
+{
+"name": "龜記",
+"recommend": "極品奶茶&濃乳茶",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNabitCd0i101rKAQThWDbWT74QhVn8o1G9QkxC=w426-h240-k-no"
+},
+{
+"name": "烏弄",
+"recommend": "杏仁凍冬片仔",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP8R6V01FAtzzOHJ8luZ0Pa8IBlE2Du7H-OAXMg=w427-h240-k-no"
+},
+{
+"name": "青花瓷",
+"recommend": "紅茶拿鐵",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM-CMWYQaaRwLGzDdvxU-JFq17uygMulhEu2o6l=w408-h408-k-no"
+},
+{
+"name": "茶聚",
+"recommend": "",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOChBbeoAlJwV1D5h8cmGUkH-soWMr7uwTgj9Nr=w408-h543-k-no"
+},
+{
+"name": "麻古",
+"recommend": "芝芝系列",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO7hXnFtJIqgS39jo4OtcUkwvTZiw2opM5bDN-u=w408-h306-k-no"
+},
+{
+"name": "50嵐",
+"recommend": "四季春珍波椰,混珠奶綠,布丁奶茶",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNERngKGed7QQlBSmbag4-C5uaUvYMrEcYEa1Nx=w408-h544-k-no"
+},
+{
+"name": "CoCo",
+"recommend": "奶茶三兄弟,布丁奶茶",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO6dR9YXkbj4vEqBwxZyFHBfmEHAdSWMiI6a1TS=w408-h544-k-no"
+},
+{
+"name": "可不可",
+"recommend": "熟成紅茶",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOV2pv_twSmX4dT8xZOy4yrvl1MMJspuztNO89Y=w408-h725-k-no"
+},
+{
+"name": "迷客夏",
+"recommend": "",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNwFPz9z8--1gq3nbuOOomoUUuwrLQxnvqz-ILf=w408-h306-k-no"
+}
+]
+},
+{
+"typeName": "選項6-來點高檔的",
+"foodList": [
+{
+"name": "河內河粉",
+"recommend": "生牛肉湯",
+"imageUrl": "https://tenjo.tw/webp/wp-content/uploads/20190724203151_40.jpg.webp"
+},
+{
+"name": "伊宛面",
+"recommend": "紅燒牛肉麵,大肉麵",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP_tdW9MKV6PuYkJraTcl19bgLw1We1aLV9Q1Um=w408-h306-k-no"
+},
+{
+"name": "紅屋",
+"recommend": "Steak",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNwRT9sLu8_hFtoDLSVoG-0p95cU4QwhUNxK1Fa=w426-h240-k-no"
+},
+{
+"name": "彌生軒",
+"recommend": "日式定食",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOPG1WR22XxsuYH-mKQdPLqbfOu1VQ5Z92jbIRm=w408-h306-k-no"
+}
+]
+},
+{
+"typeName": "選項7-對區探索",
+"foodList": [
+{
+"name": "大呼過癮",
+"recommend": "醬燒牛肉鍋",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNey-WGXP5OFCkQXnPi7QCCv8A6HM85i0zfMcrM=w408-h306-k-no"
+},
+{
+"name": "大老二",
+"recommend": "燒肉叉燒雙拼",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPEn8epkundjh4RVRT4U3DvFmYtg87kbj1SZfl_=w426-h240-k-no"
+},
+{
+"name": "陶胖餃子館",
+"recommend": "水餃,麵食",
+"imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GV_5L5Zm7ocdIjX6qgn2kQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=45.866634&pitch=0&thumbfov=100"
+},
+{
+"name": "老店麵店",
+"recommend": "喀拉雞腿飯",
+"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPQ2dDGMiR7L5k20Zte9kf7mOTUJHns9p3qngd7=w408-h544-k-no"
+}
+]
+}
+]
+}
